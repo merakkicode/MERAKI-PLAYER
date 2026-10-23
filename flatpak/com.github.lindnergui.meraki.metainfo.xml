@@ -24,11 +24,11 @@
     <mediatype>audio/mp4</mediatype>
   </provides>
   <releases>
-    <release version="0.1.0" date="2026-08-29"/>
+    <release version="1.0.0" date="2026-10-23"/>
   </releases>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">none</content_attribute>
   </content_rating>
-  <url type="homepage">https://github.com/lindnergui/MERAKI</url>
-  <url type="bugtracker">https://github.com/lindnergui/MERAKI/issues</url>
+  <url type="homepage">https://github.com/merakkicode/MERAKI-PLAYER</url>
+  <url type="bugtracker">https://github.com/merakkicode/MERAKI-PLAYER/issues</url>
 </component>

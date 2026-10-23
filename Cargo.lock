@@ -1373,7 +1373,7 @@ dependencies = [
 
 [[package]]
 name = "rust_lib_meraki"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "flutter_rust_bridge",
  "futures",

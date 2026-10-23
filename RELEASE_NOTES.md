@@ -1,4 +1,8 @@
-# Meraki Player 1.3.6 — Versão para Windows
+# Meraki Player 1.0.0 — Versão para Windows
+
+O repositório oficial passa a ser https://github.com/merakkicode/MERAKI-PLAYER na versão 1.0.0. Todas as funcionalidades, a interface e os identificadores de instalação existentes são preservados.
+
+Para quem usa uma versão anterior numericamente superior (como 1.3.6), instale manualmente a versão 1.0.0 pelos arquivos desta Release; o verificador de atualizações preserva a comparação semântica de versões.
 
 O Meraki Player agora está disponível para Windows 10/11 de 64 bits (x64), com a mesma interface e as bibliotecas local, Jellyfin e Subsonic.
 

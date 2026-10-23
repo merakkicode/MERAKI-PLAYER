@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lindnergui/MERAKI-PLAYER/main/assets/images/meraki_logo.png" width="180" alt="Logo do Meraki Player">
+  <img src="https://raw.githubusercontent.com/merakkicode/MERAKI-PLAYER/main/assets/images/meraki_logo.png" width="180" alt="Logo do Meraki Player">
 </p>
 
 <h1 align="center">Meraki Player</h1>
@@ -10,26 +10,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lindnergui/MERAKI-PLAYER/releases/latest"><img src="https://img.shields.io/github/v/release/lindnergui/MERAKI-PLAYER?display_name=tag&amp;sort=semver&amp;style=for-the-badge" alt="Versão mais recente"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/lindnergui/MERAKI-PLAYER?style=for-the-badge" alt="Licença MIT"></a>
+  <a href="https://github.com/merakkicode/MERAKI-PLAYER/releases/latest"><img src="https://img.shields.io/github/v/release/merakkicode/MERAKI-PLAYER?display_name=tag&amp;sort=date&amp;style=for-the-badge" alt="Versão mais recente"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/merakkicode/MERAKI-PLAYER?style=for-the-badge" alt="Licença MIT"></a>
   <img src="https://img.shields.io/badge/plataformas-Windows%20%7C%20Linux%20%7C%20Android-A855F7?style=for-the-badge" alt="Windows, Linux e Android">
-  <a href="https://github.com/lindnergui/MERAKI-PLAYER/actions/workflows/release.yml"><img src="https://github.com/lindnergui/MERAKI-PLAYER/actions/workflows/release.yml/badge.svg" alt="Status da release"></a>
+  <a href="https://github.com/merakkicode/MERAKI-PLAYER/actions/workflows/release.yml"><img src="https://github.com/merakkicode/MERAKI-PLAYER/actions/workflows/release.yml/badge.svg" alt="Status da release"></a>
 </p>
 
 ## Download
 
 > [!IMPORTANT]
 > Baixe o Meraki Player somente pela página oficial de
-> [Releases do GitHub](https://github.com/lindnergui/MERAKI-PLAYER/releases/latest).
+> [Releases do GitHub](https://github.com/merakkicode/MERAKI-PLAYER/releases/latest).
 > Ela contém sempre a versão estável mais recente e suas notas de lançamento.
 
 | Sistema | Formato | Suporte / distribuições | Download oficial |
 | --- | --- | --- | --- |
-| Windows | Instalador EXE e ZIP portátil | Windows 10/11 de 64 bits (x64) | [Baixar EXE](https://github.com/lindnergui/MERAKI-PLAYER/releases/latest/download/meraki-windows-setup.exe) · [Portátil](https://github.com/lindnergui/MERAKI-PLAYER/releases/latest/download/meraki-windows-portable.zip) |
-| Linux | Flatpak | Linux x86-64; Fedora, Ubuntu, Debian e outras distribuições compatíveis com Flatpak | [Baixar Flatpak](https://github.com/lindnergui/MERAKI-PLAYER/releases/latest/download/meraki.flatpak) |
-| Android | APK | Android e Android Auto | [Baixar APK](https://github.com/lindnergui/MERAKI-PLAYER/releases/latest/download/meraki-android.apk) |
+| Windows | Instalador EXE e ZIP portátil | Windows 10/11 de 64 bits (x64) | [Baixar EXE](https://github.com/merakkicode/MERAKI-PLAYER/releases/latest/download/meraki-windows-setup.exe) · [Portátil](https://github.com/merakkicode/MERAKI-PLAYER/releases/latest/download/meraki-windows-portable.zip) |
+| Linux | Flatpak | Linux x86-64; Fedora, Ubuntu, Debian e outras distribuições compatíveis com Flatpak | [Baixar Flatpak](https://github.com/merakkicode/MERAKI-PLAYER/releases/latest/download/meraki.flatpak) |
+| Android | APK | Android e Android Auto | [Baixar APK](https://github.com/merakkicode/MERAKI-PLAYER/releases/latest/download/meraki-android.apk) |
 
-[Ver todas as versões e notas de lançamento](https://github.com/lindnergui/MERAKI-PLAYER/releases)
+[Ver todas as versões e notas de lançamento](https://github.com/merakkicode/MERAKI-PLAYER/releases)
 
 ## Instalação
 
@@ -118,7 +118,7 @@ corretos para desenvolver e compilar o aplicativo.
 ### Preparar o ambiente
 
 ```bash
-git clone https://github.com/lindnergui/MERAKI-PLAYER.git
+git clone https://github.com/merakkicode/MERAKI-PLAYER.git
 cd MERAKI-PLAYER
 flutter pub get
 flutter_rust_bridge_codegen generate

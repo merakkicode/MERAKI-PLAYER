@@ -1,7 +1,7 @@
 name: meraki
 description: Player de músicas locais, Subsonic e Jellyfin para Android, Linux e Windows.
 publish_to: none
-version: 1.0.0+9
+version: 1.0.0+10
 
 environment:
   sdk: ">=3.10.0 <4.0.0"
@@ -45,3 +45,13 @@ flutter:
     - assets/images/meraki_mark.png
     - assets/videos/welcome_background_optimized.mp4
     - assets/images/welcome_poster.webp
+  fonts:
+    - family: PixelifySans
+      fonts:
+        - asset: assets/fonts/PixelifySans-400.ttf
+        - asset: assets/fonts/PixelifySans-500.ttf
+          weight: 500
+        - asset: assets/fonts/PixelifySans-600.ttf
+          weight: 600
+        - asset: assets/fonts/PixelifySans-700.ttf
+          weight: 700
